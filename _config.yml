@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Time-stamp your precious moment
+  - title                                 : Time-stamp Your Precious Moment
     description                           : 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : clock
     
   - title                                 : Quick and Instanct
     description                           : Perfect for recording your diet history
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : camera
 
   - title                                 : Variety of Stamp Designs and Color
-    description                           : Pick your favorite 
-    fontawesome_icon_name                 : play-circle
+    description                           : Pick your favorite that best suits your purpose
+    fontawesome_icon_name                 : magic
 
 
 # Theme Settings
